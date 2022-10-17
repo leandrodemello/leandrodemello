@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Desenvolvedor Front End apaixonado por tecnologia e inovação,  gosto muito de compartilhar meu conhecimento e aprendizado!
+    Desenvolvedor Front End apaixonado por tecnologia e inovação,  gosto muito de compartilhar meu conhecimento e aprendizado!!
      
   </p>
   
