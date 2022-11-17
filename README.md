@@ -1,12 +1,12 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/leandro-mello-47a24823b/">Leandro Mello 😃️</a>
+    Olá Devs, tudo bem? 
+    <a href="https://www.linkedin.com/in/leandro-mello-47a24823b/">LeandroMello aqui 😃️</a>
   </h1>
   
   <p align="center">
-    Desenvolvedor Front End apaixonado por tecnologia e inovação,  gosto muito de compartilhar meu conhecimento e aprendizado!!
+    Desenvolvedor Front End apaixonado por tecnologia e inovação,  gosto muito de compartilhar meus conhecimentos e aprendizados!!
      
   </p>
   
