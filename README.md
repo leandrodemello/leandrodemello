@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Olá Devs, tudo bem? 
-    <a href="https://www.linkedin.com/in/leandro-mello-47a24823b/">LeandroMello aqui 😃️</a>
+    <a href="https://www.linkedin.com/in/leandro-mello-47a24823b/">LeandroMello</a> aqui! 😃️
   </h1>
   
   <p align="center">
