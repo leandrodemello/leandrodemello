@@ -1,5 +1,9 @@
 # 💫 About Me:
-<br>Desenvolvedor Front End apaixonado por tecnologia e inovação, gosto muito de compartilhar meus conhecimentos e aprendizados!!<br><br>Já follow aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
+<br>Me chamo Leandro e sou um Desenvolvedor Web Front-End focado em ReactJS. 
+Desde que comecei tenho estado em constante aprendizado, sempre me colocando a disposição para aprender uma nova tecnologia, porque acredito que na programação não existe um limite, sempre há um próximo nível. 
+Estou em busca de uma oportunidade na área, para colaborar com meus conhecimentos e adquirir experiência, e assim evoluir na carreira. 
+
+Pronto para construirmos o futuro juntos?
 
 
 ## 🌐 Socials:
@@ -21,8 +25,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=leandrodemello&icon=9&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/leandrodemello636@gmail.com) 
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
