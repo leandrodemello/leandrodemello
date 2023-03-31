@@ -1,7 +1,6 @@
 # 💫 About Me:
 <br>Me chamo Leandro e sou um Desenvolvedor Web Front-End focado em ReactJS. 
 Desde que comecei tenho estado em constante aprendizado, sempre me colocando a disposição para aprender uma nova tecnologia, porque acredito que na programação não existe um limite, sempre há um próximo nível. 
-Estou em busca de uma oportunidade na área, para colaborar com meus conhecimentos e adquirir experiência, e assim evoluir na carreira. 
 
 Pronto para construirmos o futuro juntos?
 
